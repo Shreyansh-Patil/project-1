@@ -20,7 +20,8 @@
     "react-dom": "^19.0.0",
     "react-icons": "latest",
     "react-spinners": "latest",
-    "tailwindcss": "latest"
+    "tailwindcss": "latest",
+    "@tailwindcss/vite": "latest"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
