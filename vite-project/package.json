@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tailwindcss/vite": "latest",
     "axios": "latest",
     "bcryptjs": "latest",
     "cors": "latest",
@@ -19,9 +20,9 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-icons": "latest",
+    "react-router-dom": "^7.4.1",
     "react-spinners": "latest",
-    "tailwindcss": "latest",
-    "@tailwindcss/vite": "latest"
+    "tailwindcss": "latest"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
